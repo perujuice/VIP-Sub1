@@ -15,3 +15,5 @@
 
 <a href="https://www.kaggle.com/datasets/sharjeelmazhar/human-activity-recognition-video-dataset">HAR dataset made my some guy with 7 classes </a>
 
+So far this is the decent data set that is relatively clean!
+
